@@ -1,2 +1,2 @@
-# victor-awesome
+# victor-dotvim
 Victor's vim configuration.
