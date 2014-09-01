@@ -5,7 +5,7 @@ colorscheme solarized
 set incsearch
 set hlsearch
 
-set undo
+set undofile
 set undodir=~/.vim/undo
 
 
