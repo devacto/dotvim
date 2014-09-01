@@ -1,1 +1,2 @@
-This is Victor Wibisono's Awesome VIM PLUGIN
+# victor-awesome
+Victor's vim configuration.
