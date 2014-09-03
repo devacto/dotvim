@@ -5,3 +5,5 @@ mv ~/.vim{,_bak}
 mv ~/.vimrc{,_bak}
 ln -s `pwd`/.vimrc ~/.vimrc
 ln -s `pwd` ~/.vim
+git submodule init
+git submodule update
